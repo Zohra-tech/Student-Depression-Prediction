@@ -40,3 +40,13 @@ Some of the important findings were:
 - Age and semester distributions were similar in both groups of students.
 - Students with no depression had higher CGPA values than those with depression.
 - There was similarity in the cost distribution between the two groups.
+
+3. Conclusion
+This project looked at student depression through the use of a data set that had information on 4,464 students. The exploratory data analysis assisted in finding patterns and differences among students identified as being depressed and students not being depressed.
+The results indicate the existence of differences between the number of depression cases by gender, marital status, and family history. Age and distribution of current semester were, however, very similar among the two groups. There was a significant overlap in the CGPA and cost-without study distributions.
+This project clearly shows the significance of looking at different characteristics of students in relation to depression.
+
+4. Limitations and Future Work
+The project has some limitations. First, the dataset used may not reflect all university students; therefore, the results cannot be generalized. The second limitation is the imbalance in the number of students with and without depression since there are more students without depression than students with depression in the dataset. Moreover, the patterns and associations found cannot show the causal relationship between the feature and depression.
+It is also essential to look at the connection between the Health_condition feature and the depression target label. This feature needs to be analyzed in more depth to see if there are any values which would make the target label obvious.
+In the future work, the project can be improved by obtaining more data on students from different institutions and considering other factors concerning student well-being, and analyzing the classification models without the mentioned above features.
